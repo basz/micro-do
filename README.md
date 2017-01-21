@@ -76,7 +76,7 @@ initializes controllers, services, model classes and many more on demand so that
 initialization of the objects that are really needed to handle the request.
 
 **Dependencies are the root of the evil**. Well, third-party packages are very very useful. You don't want (and should)
-reinvent the wheel just to avoid a dependency to an open source third-party library. You get many adavantages when using open source
+reinvent the wheel just to avoid a dependency to an open source third-party library. You get many advantages when using open source
 so it would be bad to stop doing it.
  
 But a lot of different dependencies used in a monolithic codebase tend to become a very big problem, especially in PHP applications.
